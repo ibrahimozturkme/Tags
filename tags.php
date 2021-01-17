@@ -6,7 +6,7 @@
      *    @author İbrahim ÖZTÜRK <work@ibrahimozturk.me>
      *    @web http://ibrahimozturk.me
      *
-     *    @author Sezai Özarslan <sezai.ozarslan@webtures.com>
+     *    @author Sezai Özarslan <sezai.ozarslan@gmail.com>
      *
      *    @link https://ibrahimozturk.me/yazi/11-tags-kutuphanesi
      *    @version 1.0.0
